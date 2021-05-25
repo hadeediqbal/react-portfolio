@@ -2,9 +2,11 @@
 
 ## Description
 This is my react developer portfolio. Please visit the site below.
+http://localhost:3000/hadeediqbal/react-portfolio#Portfolio
+npm install and then npm start to launch page
 ## Table of Contents
 * [Link](#link)
-* [Screenshot](#Scrrenshot)
+* [Screenshots](#Scrrenshots)
 * [Questions](#questions)
 
 
@@ -13,8 +15,9 @@ Checkout out my site!
 
 
 
-## Screenshot
-
+## Screenshots
+![](src/assets/home.png)
+![](src/assets/portfolio.png)
 
 
 .
