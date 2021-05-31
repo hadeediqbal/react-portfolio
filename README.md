@@ -20,7 +20,7 @@ Checkout out my site!
 
 ## Screenshots
 ![](src/assets/home.png)
-![](src/assets/portfolio.png)
+![](src/assets/port.png)
 
 
 .
