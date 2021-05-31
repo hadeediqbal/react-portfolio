@@ -41,6 +41,13 @@ function Portfolio() {
             <span>HTML/CSS</span>
           </div>
         </a>
+
+        <a href="https://haul-that.herokuapp.com/" class="grid-item haul-that">
+          <div>
+            <h3>haul-that</h3>
+            <span>JavaScript/HTML/CSS/React/React Bootstrap/JWT/BCRYPT/Apollo/FIGMA/Twillio</span>
+          </div>
+        </a>
         
       </div>
     </section>
